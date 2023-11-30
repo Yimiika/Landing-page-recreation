@@ -21,6 +21,7 @@ You can check out images here.
 ![image](https://github.com/Yimiika/Landing-page-recreation/assets/121867873/18cf2e0f-6708-4a1a-acd1-aee4d01bb6e4)
 
 
+
 Getting Started
 
 To get a copy of this project up and running on your local machine, follow these steps:
@@ -45,8 +46,11 @@ Built With
 - Next.js
 - CSS
 
+
 Usage
+
 Modify the content and styles in the pages/index.js and styles/style.css files to recreate the landing page according to your needs.
+
 
 Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are highly appreciated!
