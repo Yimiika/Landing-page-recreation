@@ -1,0 +1,26 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .cardContainer {
+    display: flex;
+  }
+
+.card {
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    line-height: 2;
+  }
+  
+  .materialIcons {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 100,
+    'GRAD' -25,
+    'opsz' 20;
+    font-size: 100px;
+  }
+  

@@ -1,0 +1,22 @@
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.affImage{
+    width: 50%;
+    margin: 20px;
+    height: auto;
+ }
+
+.paragraph{
+    width: 50%;
+    margin: 30px;
+}
+
+.paragraph p {
+    white-space: pre-wrap;
+    line-height: 2;
+}

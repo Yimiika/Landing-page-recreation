@@ -1,0 +1,60 @@
+.container {
+    max-width: 1800px;
+    background-color: black;
+    margin-top: 20px;
+    padding: 80px;
+
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+
+.columns{
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    text-align: left;
+    line-height: 2;
+    color: white;
+  }
+
+  .materialIcons {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 100,
+    'GRAD' -25,
+    'opsz' 20;
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+  
+.input{
+    height: 25px;
+    width: 200px;
+    border-radius: 0;
+    background-color: black;
+    border-color: aliceblue;
+    border-width: 1px;
+    padding: 12px 20px;
+}
+
+.input:focus{
+    outline: 1px solid white;
+    caret-color: white;
+    
+}
+
+.inputContainer {
+    display: flex;
+    align-items: center;
+}
+
+.mailIcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    background: rgba(255, 255, 255, 0.6);
+  }
